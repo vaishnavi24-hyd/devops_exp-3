@@ -8,6 +8,6 @@ class Subarray {
             max = Math.max(max, sum);
         }
 
-        System.out.println("Maximum subarray sum = " + max);
+       System.out.println("Maximum Sum = " + max);
     }
 }
