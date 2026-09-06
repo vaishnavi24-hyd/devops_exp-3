@@ -6,6 +6,7 @@ class Permutation {
         for (int i = 0; i < r; i++)
             p *= (n - i);
 
-        System.out.println("Permutation Result = " + p);
+       System.out.println("Permutation");
+
     }
 }
