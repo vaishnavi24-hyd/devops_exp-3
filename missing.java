@@ -6,6 +6,6 @@ class Missing {
         for (int x : a)
             sum += x;
 
-        System.out.println("Missing number = " + (n * (n + 1) / 2 - sum));
+        System.out.println("Missing Number = " + (n * (n + 1) / 2 - sum));
     }
 }
